@@ -1,8 +1,9 @@
 # CHANGELOG.md
 
-## v0.0.5
+## v0.0.6
+
 Fixes:
  - None
 
 Features:
- - Deployment with GitHub Actions
+ - Deployment with GitHub Actions v2
